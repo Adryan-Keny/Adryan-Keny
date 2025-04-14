@@ -1,4 +1,4 @@
-# 🧑‍💻 Adryan Keny
+# Adryan Keny
 
 **`Desenvolvedor Front-end`**
 
