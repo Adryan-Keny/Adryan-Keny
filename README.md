@@ -35,7 +35,19 @@ Oi, sou Adryan Keny, tenho 18 anos e sou natural de Fortaleza - Ceará. Atualmen
     width="30px"
     style="margin-right: 10px;"
      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
-      />
+/>
+
+<br></br>
+
+### Estatísticas
+
+<img
+    align="left"
+    alt="GitHub Stats"
+    height="200"
+    style="margin-right: 10px;"
+     src="https://github-readme-stats.vercel.app/api?username=adryan-keny&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+/>
           
           
           
